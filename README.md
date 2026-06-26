@@ -46,10 +46,10 @@ Saya seorang mahasiswa yang menyukai pembelajaran berkelanjutan di bidang pemrog
 
 ### 📫 Hubungi Saya
 
-- GitHub: [@salikelhanan](https://github.com/salikelhanan)
-- Email: salikelhanan@example.com
-- Instagram: [@salik.codes](https://instagram.com/salik.codes) (opsional)
-- Portfolio: [salikelhanan.dev](#) (opsional)
+- GitHub: [@salikelhanan](https://github.com/salkun)
+- Email: elhanansalik@gmail.com
+- Instagram: [@salik.codes](https://instagram.com/salikelhanan)
+- Portfolio: [salikelhanan.dev](https://portofolio-opal-tau.vercel.app/)
 
 ---
 
